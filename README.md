@@ -53,7 +53,7 @@ Este documento provee una guía paso a paso para configurar y desplegar el proye
    - Clonar el proyecto al entorno local usando Git:
 
      ```
-     git clone <url-del-repositorio>
+     git clone https://github.com/luisfernando-ch/tektontechnicaltest.git
      ```
 
 2. **Configuración de la Cadena de Conexión:**
